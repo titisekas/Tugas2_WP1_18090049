@@ -1,0 +1,21 @@
+body{
+	background: url('kucing.jpg');
+	background-size: cover ;
+	color: #fff;
+
+}
+
+#tulisan-eksternal {
+	color: white;
+}
+
+.box-eksternal {
+	background: green;
+	margin: 0px;
+	padding: 10px;
+}
+
+/*bagian font css */
+.tulisan_satu{
+
+}
